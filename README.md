@@ -6,5 +6,5 @@
 ## Installation
 
 ```
-composer require fond-of-spryker/company-user-company-type-roles-rest-api
+composer require fond-of-spryker/company-user-company-roles-rest-api
 ```
